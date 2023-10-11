@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+}
+
+.navbar-nav .nav-link.active{
+    color: white;
+    background-color: black;
+}
+
+mb-3{
+    margin: auto;
+    text-align: center;
+    font-size: 50%;
+    
+}
